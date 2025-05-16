@@ -21,7 +21,7 @@ To run the game locally:
 
 Clone the repo: git clone https://github.com/Brennon231/Immune_System_Tower_Defense_Game.git
 
-Navigate to the project directory: cd immune-defense
+Navigate to the project directory: cd Immune_System_Tower_Defense_Game
 
 Install Pygame: pip install pygame
 
