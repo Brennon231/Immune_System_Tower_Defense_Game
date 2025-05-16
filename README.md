@@ -19,7 +19,7 @@ Pause/Play: Easily pause and resume the game with a button.
 
 To run the game locally:
 
-Clone the repo: git clone https://github.com/Brennon231/immune-defense.git
+Clone the repo: git clone https://github.com/Brennon231/Immune_System_Tower_Defense_Game.git
 
 Navigate to the project directory: cd immune-defense
 
