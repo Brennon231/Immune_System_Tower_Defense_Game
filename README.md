@@ -1,8 +1,8 @@
-Immune Defense: A Tower Defense Game
+# Immune Defense: A Tower Defense Game
 
 Welcome to Immune Defense, a tower defense game I built using Python and Pygame. The game is themed around the human immune system, where you deploy immune cells like Neutrophils, Macrophages, and Helper T-Cells to fight off waves of pathogens such as Viruses, Bacteria, and Cancer cells. I created this project to showcase my Python programming skills, particularly in object-oriented design and game development.
 
-Features
+## Features
 
 Thematic Gameplay: Use immune cells as towers, each with unique abilities like projectile attacks, AOE damage, or stat boosts.
 
@@ -15,29 +15,21 @@ Smooth Animations: Custom sprites and animations bring the game to life (all gra
 Pause/Play: Easily pause and resume the game with a button.
 
 
-Installation
+## Installation
 
 To run the game locally:
 
-Clone the repo:
+Clone the repo: git clone https://github.com/your-username/immune-defense.git
 
-git clone https://github.com/your-username/immune-defense.git
+Navigate to the project directory: cd immune-defense
 
-Navigate to the project directory:
-
-cd immune-defense
-
-Install Pygame:
-
-pip install pygame
+Install Pygame: pip install pygame
 
 Make sure the Game_assets folder is in the project root. It contains all the sprites and fonts needed.
 
-How to Play
+## How to Play
 
-Start the game:
-
-python Game.py
+Start the game: python Game.py
 
 Objective: Stop enemies from reaching the end of their paths by placing towers.
 
@@ -49,7 +41,7 @@ Upgrades: Click on a placed tower to open its menu and upgrade it (if you have e
 
 Pause/Play: Use the button in the top-right to pause or resume the game.
 
-Technologies Used
+## Technologies Used
 
 Python 3.8+
 
